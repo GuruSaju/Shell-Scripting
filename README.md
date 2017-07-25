@@ -1,1 +1,4 @@
 # shell scripting
+
+Shell is a interface between user and the kernel. Even though there can be  only one kernel ; a system can have many shell running simultaneously. Whenever a user enters a command through keyboard the
+shell communicates with the kernel to execute it and then display the output to the user.

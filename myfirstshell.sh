@@ -7,7 +7,10 @@ read something
 # to display what you read from the terminal
 echo $something
 
-ls
+echo "Command to know system running time: uptime"
+uptime
+
+
 
 
 
