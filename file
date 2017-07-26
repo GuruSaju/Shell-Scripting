@@ -1,0 +1,37 @@
+fibonacci.sh
+file
+myfirstshell.sh
+README.md
+reverseno.sh
+shellfunctions.sh
+sumtwono.sh
+userstats.sh
+variablesubstitutions.sh
+fibonacci.sh
+file
+myfirstshell.sh
+README.md
+reverseno.sh
+shellfunctions.sh
+sumtwono.sh
+userstats.sh
+variablesubstitutions.sh
+total 36
+-rwxr-xr-x 1 seed seed  154 Jul 25 08:30 fibonacci.sh
+-rw-rw-r-- 1 seed seed  250 Jul 26 07:41 file
+-rwxr-xr-x 1 seed seed  232 Jul 25 08:01 myfirstshell.sh
+-rw-rw-r-- 1 seed seed 2265 Jul 25 12:41 README.md
+-rwxr-xr-x 1 seed seed  198 Jul 25 09:45 reverseno.sh
+-rwxr-xr-x 1 seed seed  367 Jul 25 14:55 shellfunctions.sh
+-rwxr-xr-x 1 seed seed  260 Jul 25 09:09 sumtwono.sh
+-rwxr-xr-x 1 seed seed  187 Jul 25 08:57 userstats.sh
+-rwxr-xr-x 1 seed seed 1181 Jul 25 13:58 variablesubstitutions.sh
+/var/tmp/1 /var/tmp/2
+/var/tmp/1 /var/tmp/2 /var/tmp1 /var/tmp/2
+/tmp/1 /var/tmp/2 /var/tmp1 /var/tmp/2
+/tmp/1 /var/tmp/2 /var/tmp/1 /var/tmp/2
+/tmp/1 /tmp/2 /var/tmp/1 /var/tmp/2
+13
+13
+13
+[H[2Jhi

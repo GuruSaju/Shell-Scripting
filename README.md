@@ -66,4 +66,6 @@ diff <filename1> <filename2> - compares files, and shows where they differ
 
 ff - find files anywhere on the system
 
+$BASH_ENV - is searched when we open a non-interactive shell
+
 
